@@ -2,6 +2,7 @@
 ### Author: Rani
 ### Check out Berry's [Discord](https://discord.gg/xhVKCacnhz)
 ### Universal version for both Adreno and Mali
+Recommended for High-end and Flagship devices
 ## Features
 * No FPS limit (Adreno only)
 * Vulkan API (Optional, In-game settings)
