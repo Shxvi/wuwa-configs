@@ -5,13 +5,12 @@ Wuthering Waves config for Android devices
 For PC version check out Brandy's [WuWa Configs](https://github.com/AlteriaX/WuWa-Configs/)
 
 ## How to use
-
 1. Copy `DeviceProfiles.ini` and `Engine.ini` to:
 >  .../Android/data/com.kurogame.wutheringwaves.global/files/UE4Game/Client/Client/Saved/Config/Android/
 
 **If don't want to use it** simply delete DeviceProfiles.ini and Engine.ini
 
-### Config don't work
+### Config doesn't work
 
 1. Open DevicesProfiles.ini with text editor of your choice
 2. Add your device Model/GPU, if not sure add both:
