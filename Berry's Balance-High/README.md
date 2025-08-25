@@ -1,6 +1,7 @@
 ## Balance High Config
 ### Check out Berry's [Discord](https://discord.gg/xhVKCacnhz)
 ### Universal version for both Adreno and Mali
+Recommended for Mid- and High-end devices with atleast 8G of RAM
 ## Features
 * Vulkan API (Optional, In-game settings)
 * Frame Generation (Adreno only, Optional, In-game settings)
