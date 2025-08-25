@@ -31,3 +31,12 @@ BaseProfileName=Android_VeryHigh
 [Android_Mali_G615 DeviceProfile]            <----- Another possible name of D8300's GPU
 BaseProfileName=Android_VeryHigh
 ```
+## Optional parameters
+
+1. Fog
+Add to `Engine.ini`
+```
+r.Fog=0
+; 0 - Fog disabled
+; 1 - Fog enabled
+```
