@@ -1,12 +1,15 @@
 ## Experimental config
 **All parameters maxed out**
-**Not recommended to use on SoC lower than `Snapdragon 8 gen 1`/`Dimensity 8300` and bellow 8G of RAM**
+
+**Not recommended to use on SoC lower than `Snapdragon 8 Gen 1`/`Dimensity 8300` and bellow 8G of RAM**
 
 Has many unused parameters related to PC
 
 ### Differences in versions
 Original config works as-is only for Snapdragon devices
+
 Both -Mali and -Adreno config cleaned from Lumen and Nanite crap
+
 -Mali verison cleaned from Adreno only params, fixes texture glitches that appear only on Mali devices
 
 ### Special thanks to Mr.Otaku for Mali fixes
